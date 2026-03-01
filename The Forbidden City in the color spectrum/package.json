@@ -13,5 +13,8 @@
     "express": "^5.2.1",
     "socket.io": "^4.8.3",
     "open": "^11.0.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "type": "commonjs"
 }
